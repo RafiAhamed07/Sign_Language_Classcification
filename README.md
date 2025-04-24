@@ -77,9 +77,10 @@ pip install -r requirements.txt
 
 ## 🖼️ Dataset
 
-You will need a dataset of ASL hand gesture images. For example, the [Sign Language Gesture Images Dataset]([https://www.kaggle.com/datasets/grassknoted/asl-alphabet](https://www.kaggle.com/datasets/ahmedkhanak1995/sign-language-gesture-images-dataset/data)) from Kaggle is a great option.
+You will need a dataset of ASL hand gesture images. For example, the [Sign Language Gesture Images Dataset](https://www.kaggle.com/datasets/ahmedkhanak1995/sign-language-gesture-images-dataset/data) from Kaggle is a great option.
 
 Make sure the dataset is structured as expected in the training notebook.
+
 
 ---
 
